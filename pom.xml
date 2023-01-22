@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.0.166:8081/repository/successprimeRelease/</url>
+	      <url>http://172.31.0.166:8081/repository/Success-prime-Release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.0.166:8081/repository/successprimesnapshot/</url>
+	      <url>http://172.31.0.166:8081/repository/Success-prime-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
